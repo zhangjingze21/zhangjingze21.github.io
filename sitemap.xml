@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://zhangjingze21.github.com/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://zhangjingze21.github.com/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://zhangjingze21.github.com/publication_types/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://zhangjingze21.github.com/tags/</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+</urlset>

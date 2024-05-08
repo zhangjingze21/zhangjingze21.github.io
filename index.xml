@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jingze Zhang</title>
+    <link>https://zhangjingze21.github.com/</link>
+      <atom:link href="https://zhangjingze21.github.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jingze Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhangjingze21.github.com/media/icon_hu444d86ff9c8bc6b3e6f8c2a3492878e5_142951_512x512_fill_lanczos_center_3.png</url>
+      <title>Jingze Zhang</title>
+      <link>https://zhangjingze21.github.com/</link>
+    </image>
+    
+  </channel>
+</rss>
